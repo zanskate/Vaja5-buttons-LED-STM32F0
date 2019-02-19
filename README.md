@@ -7,4 +7,4 @@ ________________________________________________________________________________
 
 KOMENTAR:
 
-S pomočjo 
+S pomočjo CUBE MX in μVision5 sprogramiramo STM32FO tako, da smo s tipkami prižigali zeleno LED diodo(pin9) in modro LED diodo(pin8). Vsaka tipka je imela drugačen ukaz. Le nekaj težav je bilo z izmeničnem utripanjem LED diod.
